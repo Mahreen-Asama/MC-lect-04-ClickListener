@@ -1,4 +1,4 @@
-package com.example.lect_4
+package com.example.lect_4;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
